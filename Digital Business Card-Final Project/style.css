@@ -1,0 +1,41 @@
+.body {
+margin: 500px;
+font-family: 'Courier New', Courier, monospace;
+}
+
+.img {
+
+ display: flex;
+ justify-content: center;
+
+}
+
+.card {
+
+background-color: #ffdab9;
+color: #f08080;
+text-align: center;
+display: flex;
+justify-content: space-around;
+width: 500px;
+margin: 0% auto;
+padding: 5px;
+border-top: 20px solid #f4978e;
+
+}
+
+.kawaii {
+
+    background-color: #fbc4ab;
+    margin: 7px; 
+    border-radius: 7px;
+}
+
+.web, .ux, .fairy  {
+
+    background-color: #fbc4ab;
+    margin: 7px; 
+    border-radius: 7px;
+
+}
+
